@@ -256,13 +256,13 @@
 
     .card1 > h1 {
         font-weight: 400;
-        font-size: 43px;
+        font-size: 38px;
         width: 100%;
     }
 
     .card1 > p {
         padding-top: 10px;
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 100;
         width: 340px;
         line-height: 1.40;
