@@ -204,6 +204,7 @@
 
     .card1 {
         margin-top: 50px;
+        margin-left: 20px;
     }
     
     .card2  {
@@ -245,11 +246,12 @@
     .form_content {
         position: relative;
         top: 20px;
-        margin: 0 20px;
+        margin: 0 15px;
     }
 
     .card1 {
         margin-top: 20px;
+        margin-left: 5px;
     }
 
     .card1 > h1 {
